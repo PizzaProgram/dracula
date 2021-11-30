@@ -15,9 +15,10 @@ A dark theme for [Node-RED][node-red] based on the [Dracula theme][dracula-theme
 
 ## Install
 
-Install via npm
+To Install via npm, first you must change directory to Node-Red:
 
 ```shell
+cd .node-red
 npm install @node-red-contrib-themes/dracula
 ```
 
